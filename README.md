@@ -1,5 +1,5 @@
 # Github-User-App
-Membuat Aplikasi Github User MVVM dengan Android Studio.
+Membuat Aplikasi Github User MVVM dengan Android Studio. Ini hanya untuk referensi bagi kalian yang mengikuti Submission Dicoding Github User App.
 
 # Tutorial Build with Android Studio
 https://youtu.be/M1jz8aeo5VM
